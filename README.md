@@ -13,5 +13,5 @@ Implementation of the RUTECH Case by the White Brick Team
 
 **[- Unity Project](https://drive.google.com/file/d/19pi9IYbdHVUeOqF0ceSI3lMu9mGwB-Rd/view?usp=sharing)**
 
-**[- APK](https://drive.google.com/file/d/1ks3mx2NgvsLoJhoKSLWzv-v2zYN3Vx3u/view?usp=sharing)**
+**[- APK (demo)](https://drive.google.com/file/d/1ks3mx2NgvsLoJhoKSLWzv-v2zYN3Vx3u/view?usp=sharing)**
 
